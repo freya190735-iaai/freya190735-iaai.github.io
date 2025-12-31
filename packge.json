@@ -1,0 +1,9 @@
+{
+  "name": "freya190735-iaai.github.io",
+  "version": "1.0.0",
+  "description": "Personal portfolio website",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server --port=3000"
+  }
+}
